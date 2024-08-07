@@ -11,6 +11,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  padding: 20px;
 }
 
 .box {
@@ -23,4 +24,8 @@ body {
 h1 {
   text-align: center;
   margin-top: 20px;
+}
+
+h2 {
+  text-align: center;
 }
